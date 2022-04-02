@@ -1,4 +1,5 @@
 #This Program is used to Calculate the Split based on Tip & Number of People Split is done
+#Program Start
 print("welcome to the tip calculator.")
 total_bill=float(input("what was the total Bill?"))
 tip=int(input("What percentage tip would you like to give? 10, 12, or 15?"))
